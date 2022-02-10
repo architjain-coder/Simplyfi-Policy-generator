@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="469" height="190" viewBox="0 0 469 190">
+    <defs>
+        <clipPath id="giefzd06fa">
+            <path fill="#fff" stroke="#707070" d="M0 0H469V190H0z" transform="translate(1451)"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#giefzd06fa)" transform="translate(-1451)">
+        <rect width="629" height="240.567" fill="#101dfa" opacity="0.05" rx="42" transform="rotate(-19.01 663.82 -4338.525)"/>
+    </g>
+</svg>
